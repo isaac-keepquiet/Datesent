@@ -1,0 +1,46 @@
+.wrap{
+    width: 800px;
+    /* background-color: #ccc; */
+    margin: 0 auto;
+}
+
+.add .content{
+    width:798px;
+    margin:0px;
+    padding: 0px;
+}
+
+.add{
+    overflow: hidden;
+}
+
+.add .user{
+    float: left;
+}
+
+.add .btn{
+    float: right;
+}
+
+.msg{
+    margin: 20px 0;
+    background-color: #ccc;
+    padding: 5px;
+}
+
+.msg .info{
+    overflow: hidden;
+}
+
+.msg .user{
+    float: left;
+}
+
+.msg .time{
+    float: right;
+}
+
+.msg .content{
+    width: 100%;
+    /* padding: 5px; */
+}
