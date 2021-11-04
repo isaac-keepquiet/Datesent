@@ -29,6 +29,8 @@
         die('User is wrong');
     }
 
+    // var_dump($content, $user);
+
 
     // if( $user == '' ){
     //     die("user不能为空");
