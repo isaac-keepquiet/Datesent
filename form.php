@@ -18,9 +18,7 @@
         <div class="wrap">
             <div class="add">
                 <form action="notic.php" method="post">
-                    <textarea class="content" name="content" id="" cols="50" rows="5">
-    
-                    </textarea>
+                    <textarea class="content" name="content" id="" cols="50" rows="5"></textarea>
                     <br>
                     <input class="user" name="user" type="text">
                     <input class="btn" type="submit" value="留言">
